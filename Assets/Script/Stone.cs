@@ -31,7 +31,6 @@ public class Stone : MonoBehaviour
             else
             {
                 DamRB.velocity = damv;
-
             }
         }
        
